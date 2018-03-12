@@ -93,11 +93,11 @@ public class BasicFileHandling
             input.nextLine();
             
             System.out.println("Please enter an option"
-                    + "\n 1. Read All Lines from File"
-                    + "\n 2. Read an invidual line number"
-                    + "\n 3. Write/Append data to the text file"
-                    + "\n 4. Create a new directory"
-                    + "\n 5. Exit program");
+                    + "\n Opt 1. Read All Lines from File"
+                    + "\n Opt 2. Read an invidual line number"
+                    + "\n Opt 3. Write/Append data to the text file"
+                    + "\n Opt 4. Create a new directory"
+                    + "\n Opt 5. Exit program");
             String choice = input.nextLine();
             setFilePath();        
 
