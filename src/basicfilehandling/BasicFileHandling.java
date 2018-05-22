@@ -1,9 +1,11 @@
 /** 
- * Ver 1.0
+ * Ver 1.1
  * 12/12/2017
  * Chris Booth
  */
 
+
+//Here I am making some changes to codebase. Let's try commiting these...
 package basicfilehandling;
 
 import java.io.File;
